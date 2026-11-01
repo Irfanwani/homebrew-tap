@@ -5,8 +5,8 @@
 # Casks/mac-storage-dashboard.rb in the tap repo on every release — edit the
 # template here, not the generated file in the tap.
 cask "mac-storage-dashboard" do
-  version "1.1.2"
-  sha256 "8f1d0a6d6dc0160819bf783fed4856ceccf0a9d90fae84ad93bff192a62af4b1"
+  version "1.1.3"
+  sha256 "a60e048d47aa197947c840c9f3bc0b5d4a2fe41a50d33ad30d484033428f1e55"
 
   url "https://github.com/Irfanwani/mac-storage-dashboard/releases/download/v#{version}/Mac-Storage-Dashboard.zip"
   name "Mac Storage Dashboard"
